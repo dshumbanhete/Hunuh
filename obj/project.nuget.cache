@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BduMqEambqQ=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/Hunuh/Hunuh/Hunuh.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.12/microsoft.windowsdesktop.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
