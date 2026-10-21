@@ -1,4 +1,4 @@
-# LinguaLearn
+# Hunuh
 
 WPF (.NET 8, Windows) language-learning desktop app: one window, three profiles (User, Teacher, Admin), token-based access.
 
